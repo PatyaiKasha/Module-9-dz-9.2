@@ -57,13 +57,15 @@ header {
 
 .main {
     .col-nav {
-        min-height: 300px;
-        background: $bg;
-        line-height: (min-height);
-    }
-    .images {
-        min-height: 100px;
+        height: 100vh;
+        line-height: 100vh;
         background: $bg;
         color: $txt-col;
+    }
+    .images {
+        min-height: 150px;
+        background: $bg;
+        color: $txt-col;
+        line-height: 150px;
     }
 }

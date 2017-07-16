@@ -36,12 +36,14 @@ header .hor-nav .m7 {
     color: #444; }
 
 .main .col-nav {
-  min-height: 300px;
-  background: #444;
-  line-height: min-height; }
-.main .images {
-  min-height: 100px;
+  height: 100vh;
+  line-height: 100vh;
   background: #444;
   color: #fff; }
+.main .images {
+  min-height: 150px;
+  background: #444;
+  color: #fff;
+  line-height: 150px; }
 
 /*# sourceMappingURL=style.css.map */
