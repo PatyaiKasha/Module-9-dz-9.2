@@ -1,49 +1,72 @@
 * {
-  padding: 0;
-  margin: 0;
-  font-family: sans-serif;
-  box-sizing: border-box; }
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
 
 header .logo {
-  height: 100px;
-  background: #444;
-  line-height: 100px;
-  font-size: 24px;
-  color: #fff; }
+    height: 100px;
+    background: #444;
+    line-height: 100px;
+    font-size: 24px;
+    color: #fff;
+}
+
 header .hor-nav ul li {
-  display: inline-block; }
+    display: inline-block;
+}
+
 header .hor-nav .m7 {
-  width: 14.285714286%;
-  padding: 16px 0;
-  background: #444;
-  border-right: 1px solid #fff; }
-  header .hor-nav .m7:last-child {
-    border-right: none; }
-  header .hor-nav .m7:hover {
-    cursor: pointer; }
-  header .hor-nav .m7 a {
-    color: #fff; }
+    width: 14.285714286%;
+    padding: 16px 0;
+    background: #444;
+    border-right: 1px solid #fff;
+}
+
+header .hor-nav .m7:last-child {
+    border-right: none;
+}
+
+header .hor-nav .m7:hover {
+    cursor: pointer;
+}
+
+header .hor-nav .m7 a {
+    color: #fff;
+}
 
 .hor-nav2 h5 {
-  color: #444;
-  font-weight: bold; }
+    color: #444;
+    font-weight: bold;
+}
+
 .hor-nav2 li {
-  display: inline-block;
-  padding: 16px 16px; }
-  .hor-nav2 li:hover {
-    cursor: pointer; }
-  .hor-nav2 li a {
-    color: #444; }
+    display: inline-block;
+    padding: 16px 16px;
+}
+
+.hor-nav2 li:hover {
+    cursor: pointer;
+}
+
+.hor-nav2 li a {
+    color: #444;
+}
 
 .main .col-nav {
-  height: 100vh;
-  line-height: 100vh;
-  background: #444;
-  color: #fff; }
+    height: 100vh;
+    line-height: 100vh;
+    background: #444;
+    color: #fff;
+}
+
 .main .images {
-  min-height: 150px;
-  background: #444;
-  color: #fff;
-  line-height: 150px; }
+    min-height: 150px;
+    background: #444;
+    color: #fff;
+    line-height: 150px;
+}
+
 
 /*# sourceMappingURL=style.css.map */
