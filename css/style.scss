@@ -38,7 +38,7 @@ header {
     }
 }
 
-.hor-nav2 {
+.second-line {
     h5 {
         color: $bg;
         font-weight: bold;
@@ -55,17 +55,17 @@ header {
     }
 }
 
-.main {
-    .col-nav {
-        height: 100vh;
-        line-height: 100vh;
-        background: $bg;
-        color: $txt-col;
-    }
-    .images {
-        min-height: 150px;
-        background: $bg;
-        color: $txt-col;
-        line-height: 150px;
-    }
+
+.col-nav {
+    height: 100vh;
+    line-height: 100vh;
+    background: $bg;
+    color: $txt-col;
+}
+
+.images {
+    min-height: 150px;
+    background: $bg;
+    color: $txt-col;
+    line-height: 150px;
 }
